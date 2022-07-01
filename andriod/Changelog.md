@@ -12,3 +12,10 @@
 ✨ Features
 
 - update part of room detail UI
+
+## Changes in roomv1.0.0.pre (2022-07-01)
+
+✨ Features
+
+- deal with no matching when apk install
+
